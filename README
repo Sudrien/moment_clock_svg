@@ -1,0 +1,6 @@
+SVG is embedded in html so as to allow javascript to set corect initial
+position according to system time.
+
+Clock is also viewable at 
+
+https://projects.sudrien.net/moment_clock_svg/moment_clock_pm.html
