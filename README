@@ -1,6 +1,6 @@
 SVG is embedded in html so as to allow javascript to set corect initial position according to system time.
 
-As of time of writing, *updating* the time from Javascript lead to a jerky, slow mess, so instead this example relies on svg animations for keeping the clock up to date... closer to a mechanical clock.
+As of time of writing, *updating* the time from Javascript lead to a jerky, slow mess, so instead this example relies on svg animations for keeping the clock up to date... closer to a mechanical clock. One can, of course, re-syng it to the system clock my calling the time set function again.
 
 Clock is also viewable at 
 
